@@ -157,3 +157,58 @@ products.forEach((product, index) => {
         totalPriceDefinition.innerHTML = totalPrice
     })
 })
+
+
+
+// var salary = prompt("enter your salary:")
+// let numberSalary = Number(salary)
+// if (numberSalary >= 15000) {
+//     console.log("wealthy")
+// } else if (numberSalary < 15000 && numberSalary > 7000) {
+//     console.log("rich");
+// } else {
+//     console.log("mashia be elsatr");
+// }
+
+
+// var maxumber=prompt("enter the max number");
+// for(var i=0; i<=maxumber; i++) {
+//     if(i%2==0){
+//         console.log(i)
+//     }
+// }
+
+
+// var firstNumber = Number(prompt("Enter the first number"))
+// var secondNumber = Number(prompt("Enter the second number"))
+
+// var summation = (firstNumber + secondNumber)
+// var multiplication = (firstNumber * secondNumber)
+
+
+// for (var i = summation; i <= multiplication; i++) {
+//     if (i % 2 != 0) {
+//         console.log(i)
+//     } 
+// }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
